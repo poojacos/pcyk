@@ -5,6 +5,7 @@ Example:
   Input Sentence: "The reason was not high interest rates or labor costs"
   Parse Tree:
   [      'S',
+  
        [      'NP',
               [      'DT',
                      'The'],
