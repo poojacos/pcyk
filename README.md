@@ -2,7 +2,9 @@
 Implementation of Probabilistic CYK algorithm
 
 Example: 
+
   Input Sentence: "The reason was not high interest rates or labor costs"
+  
   Output:
   
     Probability:  8.654317452774051e-29
